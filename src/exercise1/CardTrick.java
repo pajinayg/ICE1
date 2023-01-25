@@ -72,7 +72,7 @@ System.out.print("Enter card value: ");
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+        System.out.println("My name is Jinay);
         System.out.println();
         
         System.out.println("My career ambitions:");
